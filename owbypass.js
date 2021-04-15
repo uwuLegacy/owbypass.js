@@ -2,9 +2,9 @@
 *               This file runs on a modified V8 framework that implements a custom
 *               JIT compiler, inline interpreter and the single most efficient
 *               computational JS engine out there.
-*				More info is available at: /redacted due to not ready for release/
+*		More info is available at: /redacted due to not ready for release/
 *
-*				Trademarked and protected with license agreement.
+*		Trademarked and protected with license agreement.
 */
 
 /* ---- BEGIN PRECURSOR EVALUATION ---- */
