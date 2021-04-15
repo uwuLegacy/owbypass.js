@@ -1,6 +1,6 @@
 /*
 *				--- [ heritage engine ] ---
-*				semver: 0.3.2  author: legacy
+*				semver: 0.3.2-alpha  author: legacy
 *				
 *
 *               This file runs on a modified V8 framework that implements a custom
