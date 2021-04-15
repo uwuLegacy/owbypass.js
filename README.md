@@ -1,2 +1,2 @@
 # owbypass.js
-overwatch bypass java script
+legendary scripting.
