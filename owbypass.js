@@ -1,4 +1,8 @@
 /*
+*				--- [ heritage engine ] ---
+*				semver: 0.3.2  author: legacy
+*				
+*
 *               This file runs on a modified V8 framework that implements a custom
 *               JIT compiler, inline interpreter and the single most efficient
 *               computational JS engine out there.
